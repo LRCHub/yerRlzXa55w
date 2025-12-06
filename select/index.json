@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アンダーブーケ",
+  "base_artist": "明透",
+  "createdAt": "2025-12-06T10:19:25.464120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンダーブーケ",
+      "artist": "明透",
+      "has_synced": true,
+      "path": "select/01_アンダーブーケ_明透.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンダーブーケ",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/pl_01_アンダーブーケ_明透.txt"
+    }
+  ]
+}
